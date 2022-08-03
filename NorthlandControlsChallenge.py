@@ -79,7 +79,7 @@ def print_order(lis):
 
         
 
-nums = [10, 357, 17, 128, 81]
+nums = [10, 357, 17, 5, 128, 81, 36]
 
 sorted_dict = findFactors(nums)
 
